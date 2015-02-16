@@ -1,8 +1,8 @@
 {
     "environmentSettings": {
         "webSite": {
-            "name": "",
-            "location": "West Europe"
+            "name": "arduinojcc",
+            "location": "North Europe"
         },
         "databases": [
             {
